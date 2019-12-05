@@ -1,0 +1,26 @@
+.filmsBox{
+    border: 1px solid black;
+    background: #ffffff;
+    width: 85%;
+    height: 100%;
+    margin: 10px auto;
+    box-shadow: 4px 4px 4px 1px rgba(55, 55, 55, 1);
+}
+.filmName{
+    display: flex;
+    justify-content: space-around;
+}
+.redactor{
+    width: 90%;
+    height: 110%;
+    background: #999999;
+}
+.refactorInp{
+    width: 40%;
+    border: 2px solid black;
+    font-size: 18px;
+    padding: 5px;
+}
+.removeBtnFilm{
+    background: #ffffff;
+}

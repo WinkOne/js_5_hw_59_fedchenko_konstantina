@@ -1,0 +1,11 @@
+.inp{
+    width: 73%;
+    height: 31px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px 1px rgba(55, 55, 55, 1);
+    margin: 9px;
+    padding-left: 25px;
+}
+.inp:active{
+    background: #999999;
+}

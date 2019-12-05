@@ -1,0 +1,13 @@
+.btn{
+    width: 105px;
+    height: 35px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px 1px rgba(55, 55, 55, 1);
+    margin: 5px;
+    background: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.btn:active{
+    background: #999999;
+}

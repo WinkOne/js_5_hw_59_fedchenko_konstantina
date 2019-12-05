@@ -1,0 +1,11 @@
+.JokeBlock{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    margin: 5px auto;
+    width: 30%;
+    padding: 10px;
+}
+.JokeText{
+    font-size: 24px;
+}
